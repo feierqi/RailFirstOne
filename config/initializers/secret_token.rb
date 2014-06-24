@@ -1,0 +1,1 @@
+RailFirstOne::Application.config.secret_key_base = '3d999f034b22a5ef97ef044d0e9f9b459bb04d9896956ec70180d47f0ceb6eb8a06d07ffb3bd8ff4403cebefee804d9f7032f6e281bb217928253e7399428067'
